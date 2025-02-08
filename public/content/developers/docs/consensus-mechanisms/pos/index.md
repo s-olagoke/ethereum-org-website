@@ -75,7 +75,7 @@ Overall, proof-of-stake, as it is implemented on Ethereum, has been demonstrated
 
 Ethereum originally used proof-of-work but switched to proof-of-stake in September 2022. PoS offers several advantages over PoW, such as:
 
-- better energy efficiency – there is no need to use lots of energy on proof-of-work computations
+- better energy efficiency – there is no need to use lots of energy on proof-of-stake computations
 - lower barriers to entry, reduced hardware requirements – there is no need for elite hardware to stand a chance of creating new blocks
 - reduced centralization risk – proof-of-stake should lead to more nodes securing the network
 - because of the low energy requirement less ETH issuance is required to incentivize participation
